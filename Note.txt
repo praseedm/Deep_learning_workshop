@@ -3,8 +3,45 @@ NOTES
 
 MLP - fully connected ANN network
 
+Neural net hpprice pred
+----------------------
+wn = w+lr(error)
+lr = 0.001
+
+	: try diff lr , 0.01 vs 0.001 
+	: try diff error formula eg: error = error/2
+-----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ashok@datamites.com
-
 7406609000
